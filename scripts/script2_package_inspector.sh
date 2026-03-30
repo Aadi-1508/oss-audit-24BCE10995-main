@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 2  : FOSS Package Inspector
-# Author    : Arsh Verma (24BCG10026)
+# Author    : Aadi (24BCG10026)
 # Course    : Open Source Software — CSE0002
 # Software  : Git (chosen for OSS Audit)
 # Purpose   : Checks if Git is installed, retrieves package info,
